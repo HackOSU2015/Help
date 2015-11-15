@@ -1,13 +1,14 @@
 # HackServer
 
-install dependencies:
+install dependencies: 
+
      $ cd . && sudo npm install 
-	 $ bower install
-   run the app:
-     $ heroku local web
+	 $ bower install  
+   run the app:  
+     $ heroku local web 
 
 
-   OR:  
-     $ npm start
+   OR:    
+     $ npm start  
      
 
