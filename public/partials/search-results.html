@@ -1,0 +1,68 @@
+<div class="container">
+
+    <hgroup class="mb20">
+		<h1>Search Results</h1>
+		<h2 class="lead"><strong class="text-danger">{{search.results.length}}</strong> results were found</h2>								
+	</hgroup>
+
+    <section class="col-xs-12 col-sm-6 col-md-12">
+		<article ng-repeat="result in search.results" class="search-result row">
+			<div class="col-xs-12 col-sm-12 col-md-3">
+				<a href="#" title="Lorem ipsum" class="thumbnail"><img src="http://www.kumed.com/~/media/Imported/kumed/site_images/MOB/mob_open_small.ashx" alt="Lorem ipsum" /></a>
+			</div>
+			<div class="col-xs-12 col-sm-12 col-md-2">
+				<h3>Matched Tags</h3>
+				<button type="button" class="btn btn-default btn-xs no-click" ng-repeat="tag in result.tags">{{tag.tagName}}</button>
+          		<!--button type="button" class="btn btn-default btn-xs no-click">hip pain</button>
+          		<button type="button" class="btn btn-default btn-xs no-click">back pain</button-->
+          		
+			</div>
+			<div class="col-xs-12 col-sm-12 col-md-7 excerpet">
+				<h3><a href="#" ng-click="goToDetailsPage(result)">{{result.hospitalName}}</a></h3>
+				<p>{{result.description}}</p>						
+                <span class="plus"><a href="#" title="Lorem ipsum"><i class="glyphicon glyphicon-plus"></i></a></span>
+			</div>
+			<span class="clearfix borda"></span>
+		</article>
+
+        <!--article class="search-result row">
+			<div class="col-xs-12 col-sm-12 col-md-3">
+				<a href="#" title="Lorem ipsum" class="thumbnail"><img src="http://www.kumed.com/~/media/Imported/kumed/site_images/MOB/mob_open_small.ashx" alt="Lorem ipsum" /></a>
+			</div>
+			<div class="col-xs-12 col-sm-12 col-md-2">
+				<h3>Matched Tags</h3>
+				<button type="button" class="btn btn-default btn-xs no-click">knee pain</button>
+          		<button type="button" class="btn btn-default btn-xs no-click">hip pain</button>
+          		<button type="button" class="btn btn-default btn-xs no-click">back pain</button>
+          		
+			</div>
+			<div class="col-xs-12 col-sm-12 col-md-7">
+				<h3>Hospital</h3>
+				<p>Desciption preview</p>						
+                <span class="plus"><a href="#" title="Lorem ipsum"><i class="glyphicon glyphicon-plus"></i></a></span>
+			</div>
+			<span class="clearfix borda"></span>
+		</article>
+
+		<article class="search-result row">
+			<div class="col-xs-12 col-sm-12 col-md-3">
+				<a href="#" title="Lorem ipsum" class="thumbnail"><img src="http://www.kumed.com/~/media/Imported/kumed/site_images/MOB/mob_open_small.ashx" alt="Lorem ipsum" /></a>
+			</div>
+			<div class="col-xs-12 col-sm-12 col-md-2">
+				<h3>Matched Tags</h3>
+				<button type="button" class="btn btn-default btn-xs no-click">knee pain</button>
+          		<button type="button" class="btn btn-default btn-xs no-click">hip pain</button>
+          		<button type="button" class="btn btn-default btn-xs no-click">back pain</button>
+          		
+			</div>
+			<div class="col-xs-12 col-sm-12 col-md-7">
+				<h3>Hospital</h3>
+				<p>Desciption preview</p>						
+                <span class="plus"><a href="#" title="Lorem ipsum"><i class="glyphicon glyphicon-plus"></i></a></span>
+			</div>
+			<span class="clearfix borda"></span>
+		</article-->
+
+
+	</section>
+</div>

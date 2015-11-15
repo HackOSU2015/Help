@@ -1,0 +1,710 @@
+[
+    {
+        "tag": "Allergy"
+    }, 
+    {
+        "tag": "Chronic Rhinitis"
+    }, 
+    {
+        "tag": "Cold / Flu / Allergies"
+    }, 
+    {
+        "tag": "Food Allergy"
+    }, 
+    {
+        "tag": "Hives"
+    }, 
+    {
+        "tag": "Latex Allergy"
+    }, 
+    {
+        "tag": "Sinusitis"
+    }, 
+    {
+        "tag": "Alzheimer's Disease"
+    }, 
+    {
+        "tag": "Bladder Incontinence"
+    }, 
+    {
+        "tag": "Dementia"
+    }, 
+    {
+        "tag": "Arthritis"
+    }, 
+    {
+        "tag": "Ankylosing Spondylitis"
+    }, 
+    {
+        "tag": "Fibromyalgia"
+    }, 
+    {
+        "tag": "Gout"
+    }, 
+    {
+        "tag": "Lupus"
+    }, 
+    {
+        "tag": "Osteoarthritis"
+    }, 
+    {
+        "tag": "Psoriatic Arthritis"
+    }, 
+    {
+        "tag": "Reactive Arthritis"
+    }, 
+    {
+        "tag": "Rheumatoid Arthritis"
+    }, 
+    {
+        "tag": "Asthma"
+    }, 
+    {
+        "tag": "Asthmatic Complexities"
+    }, 
+    {
+        "tag": "Cancer Causes"
+    }, 
+    {
+        "tag": "Cancer Detection"
+    }, 
+    {
+        "tag": "Cancer - General"
+    }, 
+    {
+        "tag": "Brain Tumor"
+    }, 
+    {
+        "tag": "Bladder Cancer"
+    }, 
+    {
+        "tag": "Breast Cancer"
+    }, 
+    {
+        "tag": "Cervical Cancer"
+    }, 
+    {
+        "tag": "Colon Polyps"
+    }, 
+    {
+        "tag": "Liver Cancer"
+    }, 
+    {
+        "tag": "Lung Cancer"
+    }, 
+    {
+        "tag": "Pancreatic Cancer"
+    }, 
+    {
+        "tag": "Prostate Cancer"
+    }, 
+    {
+        "tag": "Skin Cancer"
+    }, 
+    {
+        "tag": "Testicular Cancer"
+    }, 
+    {
+        "tag": "Cholesterol"
+    }, 
+    {
+        "tag": "Fiber"
+    }, 
+    {
+        "tag": "Heart Attack"
+    }, 
+    {
+        "tag": "Acupuncture"
+    }, 
+    {
+        "tag": "Acute and Chronic Pain"
+    }, 
+    {
+        "tag": "Cortisone Injection"
+    }, 
+    {
+        "tag": "Degenerative Disc"
+    }, 
+    {
+        "tag": "Low Back Pain"
+    }, 
+    {
+        "tag": "Aches, Pain, Fever"
+    }, 
+    {
+        "tag": "Chronic Cough"
+    }, 
+    {
+        "tag": "Common Cold"
+    }, 
+    {
+        "tag": "Flu (Influenza)"
+    }, 
+    {
+        "tag": "Flu Vaccination"
+    }, 
+    {
+        "tag": "Immunizations"
+    }, 
+    {
+        "tag": "Pneumonia"
+    }, 
+    {
+        "tag": "Pneumonia Vaccination"
+    }, 
+    {
+        "tag": "SARS"
+    }, 
+    {
+        "tag": "Sinusitis"
+    }, 
+    {
+        "tag": "Sore Throat"
+    }, 
+    {
+        "tag": "Strep Throat"
+    }, 
+    {
+        "tag": "Swine Flu (H1N1 Virus)"
+    }, 
+    {
+        "tag": "Bipolar Disorder"
+    }, 
+    {
+        "tag": "Depression"
+    }, 
+    {
+        "tag": "Dysthymia"
+    }, 
+    {
+        "tag": "Panic Disorder"
+    }, 
+    {
+        "tag": "Stress"
+    }, 
+    {
+        "tag": "Diabetes Mellitus"
+    }, 
+    {
+        "tag": "Diabetes Insipidus"
+    }, 
+    {
+        "tag": "Diabetes Treatment"
+    }, 
+    {
+        "tag": "Insulin"
+    }, 
+    {
+        "tag": "Abdominal Pain"
+    }, 
+    {
+        "tag": "Appendicitis"
+    }, 
+    {
+        "tag": "Ulcerative Colitis"
+    }, 
+    {
+        "tag": "Constipation"
+    }, 
+    {
+        "tag": "Crohn&#39;s Disease"
+    }, 
+    {
+        "tag": "Diarrhea"
+    }, 
+    {
+        "tag": "Dyspepsia (Indigestion)"
+    }, 
+    {
+        "tag": "Hemorrhoids"
+    }, 
+    {
+        "tag": "Lactose Intolerance"
+    }, 
+    {
+        "tag": "Motion Sickness"
+    }, 
+    {
+        "tag": "Ulcerative Colitis"
+    }, 
+    {
+        "tag": "Exercise &amp; Activity"
+    }, 
+    {
+        "tag": "First Aid"
+    }, 
+    {
+        "tag": "Obesity"
+    }, 
+    {
+        "tag": "Cataracts"
+    }, 
+    {
+        "tag": "Eye Allergy"
+    }, 
+    {
+        "tag": "Eye Care"
+    }, 
+    {
+        "tag": "Glaucoma"
+    }, 
+    {
+        "tag": "LASIK Eye Surgery"
+    }, 
+    {
+        "tag": "Pink Eye (Conjunctivitis)"
+    }, 
+    {
+        "tag": "Retinal Detachment"
+    }, 
+    {
+        "tag": "Sjogren&#39;s Syndrome"
+    }, 
+    {
+        "tag": "Angina"
+    }, 
+    {
+        "tag": "Coronary Angiogram"
+    }, 
+    {
+        "tag": "Coronary Angioplasty"
+    }, 
+    {
+        "tag": "Heart Attack"
+    }, 
+    {
+        "tag": "Heart Murmurs"
+    }, 
+    {
+        "tag": "Heart Palpitations"
+    }, 
+    {
+        "tag": "High Cholesterol"
+    }, 
+    {
+        "tag": "Stroke"
+    }, 
+    {
+        "tag": "Cirrhosis of the Liver"
+    }, 
+    {
+        "tag": "Hepatitis B"
+    }, 
+    {
+        "tag": "Hepatitis C"
+    }, 
+    {
+        "tag": "Jaundice in NewBorns"
+    }, 
+    {
+        "tag": "Lichen Planus"
+    }, 
+    {
+        "tag": "Pulmonary Hypertension"
+    }, 
+    {
+        "tag": "Human Immunodeficiency Virus (HIV)"
+    }, 
+    {
+        "tag": "Acquired Immunodeficiency Syndrome (AIDS)"
+    }, 
+    {
+        "tag": "Botulism"
+    }, 
+    {
+        "tag": "Dengue Fever"
+    }, 
+    {
+        "tag": "Mad Cow Disease"
+    }, 
+    {
+        "tag": "Malaria"
+    }, 
+    {
+        "tag": "Meningitis"
+    }, 
+    {
+        "tag": "MRSA"
+    }, 
+    {
+        "tag": "Rabies"
+    }, 
+    {
+        "tag": "Staph Infection"
+    }, 
+    {
+        "tag": "West Nile Virus"
+    }, 
+    {
+        "tag": "Cirrhosis of the Liver"
+    }, 
+    {
+        "tag": "Non-alcoholic Fatty Liver"
+    }, 
+    {
+        "tag": "Hemochromatosis (Iron Overload)"
+    }, 
+    {
+        "tag": "Hepatitis B"
+    }, 
+    {
+        "tag": "Hepatitis C"
+    }, 
+    {
+        "tag": "Jaundice"
+    }, 
+    {
+        "tag": "Liver Blood Tests"
+    }, 
+    {
+        "tag": "Asthma"
+    }, 
+    {
+        "tag": "Lung Cancer"
+    }, 
+    {
+        "tag": "Pneumonia"
+    }, 
+    {
+        "tag": "Hormone Replacement Therapy"
+    }, 
+    {
+        "tag": "Menopause"
+    }, 
+    {
+        "tag": "Angina"
+    }, 
+    {
+        "tag": "Erectile Dysfunction (Impotence)"
+    }, 
+    {
+        "tag": "Hair Loss (Baldness)"
+    }, 
+    {
+        "tag": "Prostate Cancer"
+    }, 
+    {
+        "tag": "Prostatitis"
+    }, 
+    {
+        "tag": "Sexually Transmitted Diseases"
+    }, 
+    {
+        "tag": "Testicular Cancer"
+    }, 
+    {
+        "tag": "Vasectomy"
+    }, 
+    {
+        "tag": "Viagra"
+    }, 
+    {
+        "tag": "Anxiety"
+    }, 
+    {
+        "tag": "Panic Attacks"
+    }, 
+    {
+        "tag": "Postpartum Depression"
+    }, 
+    {
+        "tag": "Separation Anxiety"
+    }, 
+    {
+        "tag": "Stress"
+    }, 
+    {
+        "tag": "Cluster Headaches"
+    }, 
+    {
+        "tag": "Headache"
+    }, 
+    {
+        "tag": "Tension Headache"
+    }, 
+    {
+        "tag": "Bone Density"
+    }, 
+    {
+        "tag": "Estradiol"
+    }, 
+    {
+        "tag": "Hormone Replacement Therapy"
+    }, 
+    {
+        "tag": "Menopause"
+    }, 
+    {
+        "tag": "Osteoporosis"
+    }, 
+    {
+        "tag": "Bedwetting"
+    }, 
+    {
+        "tag": "Birth Defects"
+    }, 
+    {
+        "tag": "Chickenpox"
+    }, 
+    {
+        "tag": "Colic"
+    }, 
+    {
+        "tag": "Diaper Rash"
+    }, 
+    {
+        "tag": "Lactose Intolerance"
+    }, 
+    {
+        "tag": "Nosebleeds"
+    }, 
+    {
+        "tag": "Pink Eye"
+    }, 
+    {
+        "tag": "Measles"
+    }, 
+    {
+        "tag": "Mumps"
+    }, 
+    {
+        "tag": "Tonsillectomy"
+    }, 
+    {
+        "tag": "Vaccinations and Immunizations"
+    }, 
+    {
+        "tag": "Arthroscopy"
+    }, 
+    {
+        "tag": "Celebrex"
+    }, 
+    {
+        "tag": "Cortisone Injection"
+    }, 
+    {
+        "tag": "Remicade"
+    }, 
+    {
+        "tag": "Rheumatoid Arthritis"
+    }, 
+    {
+        "tag": "Total Hip Replacement"
+    }, 
+    {
+        "tag": "Total Knee Replacement"
+    }, 
+    {
+        "tag": "Alzheimer&#39;s Disease"
+    }, 
+    {
+        "tag": "Anemia"
+    }, 
+    {
+        "tag": "Angina"
+    }, 
+    {
+        "tag": "Cataracts"
+    }, 
+    {
+        "tag": "Dementia"
+    }, 
+    {
+        "tag": "Glaucoma"
+    }, 
+    {
+        "tag": "Sleep Disturbance"
+    }, 
+    {
+        "tag": "Stroke"
+    }, 
+    {
+        "tag": "Acne"
+    }, 
+    {
+        "tag": "Actinic Keratosis"
+    }, 
+    {
+        "tag": "Atopic Dermatitis (Eczema)"
+    }, 
+    {
+        "tag": "Boils"
+    }, 
+    {
+        "tag": "Bumps and Bruises"
+    }, 
+    {
+        "tag": "Burns"
+    }, 
+    {
+        "tag": "Dandruff"
+    }, 
+    {
+        "tag": "Hives"
+    }, 
+    {
+        "tag": "Itch"
+    }, 
+    {
+        "tag": "Keloid"
+    }, 
+    {
+        "tag": "Melanoma"
+    }, 
+    {
+        "tag": "Nail Fungus"
+    }, 
+    {
+        "tag": "Poison Ivy"
+    }, 
+    {
+        "tag": "Psoriasis"
+    }, 
+    {
+        "tag": "Rash (Dermatitis)"
+    }, 
+    {
+        "tag": "Rosacea"
+    }, 
+    {
+        "tag": "Scleroderma"
+    }, 
+    {
+        "tag": "Shingles"
+    }, 
+    {
+        "tag": "Skin Cancer"
+    }, 
+    {
+        "tag": "Warts"
+    }, 
+    {
+        "tag": "Wrinkles"
+    }, 
+    {
+        "tag": "Insomnia"
+    }, 
+    {
+        "tag": "Insomnia Treatment"
+    }, 
+    {
+        "tag": "Jet Lag"
+    }, 
+    {
+        "tag": "Narcolepsy"
+    }, 
+    {
+        "tag": "Sleep"
+    }, 
+    {
+        "tag": "Sleep Apnea"
+    }, 
+    {
+        "tag": "Snoring (Somnoplasty)"
+    }, 
+    {
+        "tag": "Hashimoto&#39;s Thyroiditis"
+    }, 
+    {
+        "tag": "Hyperthyroidism"
+    }, 
+    {
+        "tag": "Hypothyroidism"
+    }, 
+    {
+        "tag": "Thyroid Cancer"
+    }, 
+    {
+        "tag": "Thyroid Nodules"
+    }, 
+    {
+        "tag": "Bladder Infection"
+    }, 
+    {
+        "tag": "Bladder Spasms"
+    }, 
+    {
+        "tag": "Blood In Urine (Hematuria)"
+    }, 
+    {
+        "tag": "Cystinuria"
+    }, 
+    {
+        "tag": "Interstitial Cystitis"
+    }, 
+    {
+        "tag": "Kidney Stones"
+    }, 
+    {
+        "tag": "Overactive Bladder"
+    }, 
+    {
+        "tag": "Prostatitis"
+    }, 
+    {
+        "tag": "Urethral Stricture"
+    }, 
+    {
+        "tag": "Urinalysis"
+    }, 
+    {
+        "tag": "Urinary Retention"
+    }, 
+    {
+        "tag": "Urinary Tract Infections"
+    }, 
+    {
+        "tag": "Anorexia Nervosa"
+    }, 
+    {
+        "tag": "Bulimia Nervosa"
+    }, 
+    {
+        "tag": "Cellulite"
+    }, 
+    {
+        "tag": "Childhood Obesity"
+    }, 
+    {
+        "tag": "Diet &amp; Weight Loss"
+    }, 
+    {
+        "tag": "Birth Control Methods"
+    }, 
+    {
+        "tag": "Breast Cancer"
+    }, 
+    {
+        "tag": "Breastfeeding"
+    }, 
+    {
+        "tag": "Hormone Therapy"
+    }, 
+    {
+        "tag": "Hysterectomy"
+    }, 
+    {
+        "tag": "Menopause"
+    }, 
+    {
+        "tag": "Miscarriage"
+    }, 
+    {
+        "tag": "Osteoporosis"
+    }, 
+    {
+        "tag": "Ovarian Cancer"
+    }, 
+    {
+        "tag": "Ovarian Cysts"
+    }, 
+    {
+        "tag": "Uterine Cancer"
+    }, 
+    {
+        "tag": "Varicose Veins"
+    }, 
+    {
+        "tag": "Yeast Infections"
+    }
+]
