@@ -1,0 +1,22 @@
+{
+  "name": "Help",
+  "description": "",
+  "main": "views/index.ejs",
+  "authors": [
+    "kaushlakers <kaush.lakers@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/HackOSU2015/Help",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.7"
+  }
+}
