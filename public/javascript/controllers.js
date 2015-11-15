@@ -38,10 +38,13 @@ helpApp.controller('SearchController', function($scope, $http, ModalService) {
 		var searchQuery="?" + $scope.search.currentOpt.toLowerCase()
 			+ "=" + $scope.search.query;
 		console.log(searchQuery);
+
 		$http.get("/search/+searchQuery").success(function(data) {
 			$scope.view = "partials/search-results.html";	
 			$scope.search.results = data;
 		})
+
+		
 	}
 
 	$scope.goToDetailsPage = function(hospital) {
