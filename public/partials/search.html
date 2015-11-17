@@ -1,0 +1,26 @@
+
+    
+
+<div class="search-form">
+  <div class="input-group search-box-container">
+    <div class="input-group-btn">
+      <div class="input-group-btn">
+        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{search.currentOpt}} <span class="caret"></span></button>
+        <ul class="dropdown-menu" >
+          <li ng-repeat="option in search.opts"><a ng-click="setQueryType(option)" href="#">{{option}}</a></li>
+          <!--li><a href="#">Another action</a></li>
+          <li><a href="#">Something else here</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="#">Separated link</a></li-->
+        </ul>
+      </div><!-- /btn-group -->
+    <!-- Button and dropdown menu -->
+    </div>
+    <input type="text" ng-model="search.query" class="form-control search-box" aria-label="...">
+    <span class="input-group-btn">
+        <button ng-click="searchQuery()" class="btn btn-default" type="button">Go!</button>
+      </span>
+    </div>
+</div>
+
+    <!-- /.container -->
