@@ -4,7 +4,7 @@ helpApp.controller('SearchController', function($scope, $http, ModalService) {
 
 	$scope.view = "partials/search.html";
 	$scope.search = {};
-	$scope.search.opts = ["Hospital", "Ailment"];
+	$scope.search.opts = ["Hospital", "Malady"];
 	$scope.search.currentOpt = 	$scope.search.opts[0]
 	
 	$http.get('tags.json').success(function(data) {
@@ -40,7 +40,7 @@ helpApp.controller('SearchController', function($scope, $http, ModalService) {
 		console.log(searchQuery);
 
 
-		$http.get("/search/+searchQuery").success(function(data) {
+		$http.get("/search+searchQuery").success(function(data) {
 			$scope.view = "partials/search-results.html";	
 			$scope.search.results = data;
 		})
