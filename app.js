@@ -7,6 +7,12 @@ var bodyParser = require('body-parser');
 
 var routes = require('./routes/index');
 var users = require('./routes/users');
+var testapi = require('./routes/testapi');
+
+
+//var hospital = require('./routes/hospital');
+var search = require('./routes/search');
+//var update = require('./routes/update');
 
 var app = express();
 
@@ -24,7 +30,51 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', routes);
 app.use('/users', users);
+app.use('/testapi', testapi);
+//app.use('/hospital',hospital);
+app.use('/search',search);
+//app.post('/update', update);
+/*app.post('/update',function(req,res){
+    var mongoose = require('mongoose');
+    mongoose.connect('mongodb://localhost/test3');
+var HospitalSchema = new mongoose.Schema({
 
+hospitalName: String,
+overallRating: Number,
+numRatings: Number,
+description: String,
+tags: [{tagName:String, rating:Number, numRatings: Number}]
+});
+    var Hospital = mongoose.model('Malady', HospitalSchema);
+    var hosp = new Hospital({name: malady_name, id: 2, hospitalIds: [12, 2]});
+
+
+
+    malady.save(function(err){
+      if(err)
+        console.log(err);
+      else
+        console.log(malady);
+    });
+
+    {
+    hospitalName:"Wexner Medical Center",
+
+    overallRating:4,
+
+    tags:[{tagName:"knee pain", rating:4},
+    {tagName:"back pain", rating:4},
+    {tagName:"cancer", rating:4}],
+
+    reviews:["This is a beautiful review",
+    "This is also a beautiful review"], 
+
+    description:"This is a beautiful place..."
+    }
+
+  res.end("yes");
+});
+*/
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
   var err = new Error('Not Found');
