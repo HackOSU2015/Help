@@ -105,11 +105,11 @@ router.get('/', function (req, res) {
 					console.log(JSON.stringify(unique_hosp_ids[0]));
 					console.log("bye");
 					console.log(JSON.stringify(hosp_result));
-					final_res.push(hosp_result);
+					//final_res.push(hosp_result);
 					console.log()
 					console.log("byeeee");
-					console.log(JSON.stringify(final_res));
-					res.json(final_res);
+					//console.log(JSON.stringify(final_res));
+					res.json(hosp_result);
 			});
 			
 
